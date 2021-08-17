@@ -1,0 +1,1 @@
+Disable-NetAdapterChecksumOffload -Name "*" -TcpIPv4 -IpIPv4

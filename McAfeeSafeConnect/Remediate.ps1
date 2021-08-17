@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "C:\Windows\System32\msiexec.exe" -ArgumentList "/x", "{8DF95C34-C5EB-4026-9C86-E49F2A94677A}", "/qn" -WindowStyle Hidden

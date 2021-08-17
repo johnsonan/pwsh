@@ -1,0 +1,1 @@
+﻿Remove-LocalGroupMember -Group Administrators -Name "DOMAIN\Domain Users"

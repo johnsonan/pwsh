@@ -1,0 +1,7 @@
+server: null
+enterprise:
+  org_id: E4D857F555DE394C7F000101@AdobeOrg
+  api_key: 1f94f30ca3324585b8985d20f20d8c52
+  client_secret: 0fe37dfa-7014-4d63-ab3f-9047da162a5d
+  tech_acct: 2C086C015D41F2700A495CC1@techacct.adobe.com
+  priv_key_path: 'C:\Users\johnsonanad\Downloads\User_Sync\User_Sync\private.key'

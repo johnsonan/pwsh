@@ -1,0 +1,1 @@
+Rename-Item -Path "C:\Windows\System32\atig6pxx.dll" -NewName "atig6pxx.dll.bak"

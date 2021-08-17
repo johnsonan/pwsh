@@ -1,0 +1,1 @@
+Get-PnpDevice -FriendlyName "AMD FirePro W2100*" | Disable-PnpDevice -Confirm:$false

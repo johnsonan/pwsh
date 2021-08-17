@@ -1,0 +1,1 @@
+if (Test-WSMan -ea SilentlyContinue) { $true } else { $false }

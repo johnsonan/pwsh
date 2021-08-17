@@ -1,0 +1,1 @@
+&cmd.exe /c regedit.exe /s "\\some\path\to\OneDriveSpaceThreshold.reg"
