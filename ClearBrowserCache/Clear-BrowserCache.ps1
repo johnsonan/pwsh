@@ -1,5 +1,0 @@
-Function Clear-BrowserCache {
-
-
-
-}
